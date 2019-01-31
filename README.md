@@ -1,2 +1,4 @@
 # hello-world
-first repository
+This is my first repository
+
+I'm communication- and media student that likes pc-games and sports
